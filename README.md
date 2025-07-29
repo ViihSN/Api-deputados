@@ -4,7 +4,7 @@ Para rodar, siga os seguintes passos:
 
 1. **Clone o repositório:**
 
-   ```git clone https://github.com/gugalxp/Api-deputados.git ```
+   ```git clone https://github.com/ViihSN/Api-deputados.git```
 
 *Inclua o arquivo .env na raiz do projeto com as configurações necessárias.*
 *Pra facilitar, estou enviando o que eu usei separado do projeto.*
