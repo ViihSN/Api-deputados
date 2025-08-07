@@ -15,6 +15,9 @@ Para rodar, siga os seguintes passos:
 
 ``` docker-compose up -d --build ```
 
+### Rodar migrate
+``` docker exec -it camara_api php artisan migrate ```
+
 ### Acesse a aplicação localmente:
 
 Plataforma: http://localhost:8000
